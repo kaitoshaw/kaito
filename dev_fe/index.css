@@ -1,0 +1,27 @@
+body {
+    background-color: #FAF9F6;
+    overflow: hidden;
+}
+
+.container {
+
+}
+
+.sidebar {
+    margin-left: 5rem;
+    display: flex;
+    height: 100vh;
+    width: 3rem;
+    /* background-color: red; */
+    text-align: center;
+    align-items: center;
+}
+
+.icons {
+    /* background-color: blue; */
+}
+
+.sidebar img {
+    display: inline-block;
+    margin-bottom: 2rem;
+}
