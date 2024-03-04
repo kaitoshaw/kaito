@@ -1,2 +1,5 @@
 # Virtual Environment
 k_env/
+
+# Other Files
+.DS_Store
