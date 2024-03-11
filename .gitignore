@@ -3,3 +3,7 @@ k_env/
 
 # Other Files
 .DS_Store
+__pycache__/
+
+# Unnecessary Databases
+*.sqlite3
